@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AssignmentPRM</string>
+    <string name="main_welcome">Welcome to Mobile Programming Course</string>
+    <string name="main_btnRegister">Register</string>
+    <string name="main_btnShow">Show Registered Users</string>
+    <string name="register_header">Register</string>
+    <string name="register_rbtnMale">Male</string>
+    <string name="register_rbtnFemale">Female</string>
+    <string name="register_btnSave">Save</string>
+    <string name="userList_btnBack">Back</string>
+    <string name="userDetail_btnCall">Call</string>
+    <string name="userDetail">Detail Infomation</string>
+    <string name="userDetail_btnDetail">Detail</string>
+    <string name="text_register">Register</string>
+    <string name="text_delete">Delete</string>
+</resources>
